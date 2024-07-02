@@ -57,4 +57,4 @@
     </tr>
 </table>
 
-![Wcowin's github activity graph](https://raw.githubusercontent.com/Wcowin/Wcowin/output/github-contribution-grid-snake.svg)
+![G.R.D's github activity graph](https://raw.githubusercontent.com/grdnet/grdnet/output/github-contribution-grid-snake.svg)
